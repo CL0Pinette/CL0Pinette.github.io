@@ -1,9 +1,9 @@
 @import "rouge-base16-dark";
 
-@font-face {
+/*@font-face {
   font-family: JetBrains;
   src: url(../woff/JetBrainsMono-Regular.woff);
-}/*@font-face {
+}@font-face {
   font-family: JetBrains;
   font-weight: bold;
   src: url(../woff/JetBrainsMono-Bold.woff);
@@ -34,7 +34,7 @@
 
   --body-background: var(--cod-grey);
   --body-foreground: var(--gallery);
-  --header: var(--conifer) !default;
+  --header: var(--conifer);
   --blockquote-color: var(--silver-chalice);
   --blockquote-border: var(--dove-grey);
   --container-max-width: 1000px;
@@ -47,7 +47,7 @@ body {
   color: var(--body-foreground);
   font-size: 16px;
   line-height: 1.5;
-  font-family: "JetBrains";
+  font-family: "Lucida Console";
 }
 
 /* General & 'Reset' Stuff */
@@ -90,7 +90,7 @@ header h1 {
   line-height: 1.5;
   margin: 0 0 0 -40px;
   font-weight: bold;
-  font-family: "JetBrains";
+  font-family: "Lucida Console";
   color: var(--conifer);
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -100,7 +100,7 @@ header h1 {
 }
 
 
-header h1:before {
+header h1::before {
   content: "./ ";
   font-size: 24px;
 }
@@ -130,7 +130,7 @@ section img {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
-  font-family: "JetBrains";
+  font-family: "Lucida Console";
   color: var(--header);
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
@@ -237,7 +237,7 @@ hr {
   border-bottom: 2px solid rgba(0, 0, 0, 0.7);
   border-top: 2px solid rgba(0, 0, 0, 1);
   color: rgba(255, 255, 255, 0.8);
-  font-family: "JetBrains";
+  font-family: "Lucida Console";
   font-weight: bold;
   font-size: 13px;
   text-decoration: none;
