@@ -1,24 +1,35 @@
 @import "rouge-base16-dark";
-@import "default_colors";
 
-$body-background: $cod-grey !default;
-$body-foreground: $gallery !default;
-$header: $conifer !default;
-$blockquote-color: $silver-chalice !default;
-$blockquote-border: $dove-grey !default;
-$container-max-width: 1000px;
+:root{
+  --apple-blossom: #ac4142;
+  --alto: #d0d0d0;
+  --bouquet: #aa759f;
+  --chelsea-cucumber: #90a959;
+  --cod-grey: #151515;
+  --conifer: #b5e853;
+  --dove-grey: #666;
+  --gallery: #eaeaea;
+  --grey: #888;
+  --gulf-stream: #75b5aa;
+  --hippie-blue: #6a9fb5;
+  --potters-clay: #8f5536;
+  --rajah: #f4bf75;
+  --raw-sienna: #d28445;
+  --silver-chalice: #aaa;
 
-@mixin media-max-width($max-width) {
-  @media (max-width: $max-width) {
-      @content;
-  }
+  --body-background: var(--cod-grey);
+  --body-foreground: var(--gallery);
+  --header: var(--conifer) !default;
+  --blockquote-color: var(--silver-chalice);
+  --blockquote-border: var(--dove-grey);
+  --container-max-width: 1000px;
 }
 
 body {
   margin: 0;
   padding: 0;
-  background: $body-background url("../images/bkg.png") 0 0;
-  color: $body-foreground;
+  background: var(--body-background) url("../images/bkg.png") 0 0;
+  color: var(--body-foreground);
   font-size: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
@@ -28,7 +39,7 @@ body {
 
 .container {
   width: 90%;
-  max-width: $container-max-width;
+  max-width: var(--container-max-width);
   margin: 0 auto;
 }
 
@@ -54,7 +65,7 @@ li {
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
-  border-bottom: 1px dashed $conifer; //header;
+  border-bottom: 1px dashed var(--conifer);
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
@@ -65,15 +76,12 @@ header h1 {
   margin: 0 0 0 -40px;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: $conifer;//$header;
+  color: var(--conifer);
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
-  @include media-max-width($container-max-width) {
-    margin-left: 0;
-  }
 }
 
 
@@ -108,7 +116,7 @@ section img {
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: $header;
+  color: var(--header);
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
@@ -154,9 +162,9 @@ ul li {
 }
 
 blockquote {
-  color: $blockquote-color;
+  color: var(--blockquote-color);
   padding-left: 10px;
-  border-left: 1px dotted $blockquote-border;
+  border-left: 1px dotted var(--blockquote-border);
 }
 
 pre {
