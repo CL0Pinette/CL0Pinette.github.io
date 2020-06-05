@@ -1,3 +1,4 @@
+/*@import "default_colors";*/
 :root{
   --apple-blossom: #ac4142;
   --alto: #d0d0d0;
@@ -14,6 +15,7 @@
   --rajah: #f4bf75;
   --raw-sienna: #d28445;
   --silver-chalice: #aaa;
+
   --plaintext: var(--alto);
   --string: var(--chelsea-cucumber);
   --literal: var(--chelsea-cucumber);
