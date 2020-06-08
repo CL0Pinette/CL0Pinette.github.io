@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"col-lg",
+				"col-lg-3\t(bootstrap.css)"
+			],
+			[
+				"font-f",
+				"font-family-sans-serif\tabc"
+			],
+			[
+				"umd",
+				"addons/popper/umd/popper.js"
+			],
+			[
+				"add",
+				"addons/bootstrap/js/bootstrap.js"
+			],
+			[
 				"con",
 				"container\tabc"
 			],
@@ -304,24 +320,6 @@
 	"buffers":
 	[
 		{
-			"file": "css/style.css",
-			"settings":
-			{
-				"buffer_size": 5209,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/code_highlight.css",
-			"settings":
-			{
-				"buffer_size": 2030,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "zz.php",
 			"settings":
 			{
@@ -334,7 +332,52 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 319,
+				"buffer_size": 2982,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "writeup.html",
+			"settings":
+			{
+				"buffer_size": 355,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/search.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "addons/bootstrap/css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 200091,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/indexjson.js",
+			"settings":
+			{
+				"buffer_size": 759,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "json/search.json",
+			"settings":
+			{
+				"buffer_size": 55,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -368,8 +411,20 @@
 		"selected_items":
 		[
 			[
+				"git",
+				"Git: Commit"
+			],
+			[
 				"Package Control: ",
-				"Package Control: Upgrade/Overwrite All Packages"
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
 			],
 			[
 				"isntall",
@@ -388,16 +443,8 @@
 				"Package Control: Install Package"
 			],
 			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
 				"pyth",
 				"Set Syntax: Python3"
-			],
-			[
-				"package",
-				"Package Control: Install Package"
 			],
 			[
 				"vuln",
@@ -462,14 +509,20 @@
 	"expanded_folders":
 	[
 		"/E/Github/CL0Pinette_Website",
-		"/E/Github/CL0Pinette_Website/addons",
-		"/E/Github/CL0Pinette_Website/addons/popper",
+		"/E/Github/CL0Pinette_Website/content",
 		"/E/Github/CL0Pinette_Website/css",
 		"/E/Github/CL0Pinette_Website/images",
+		"/E/Github/CL0Pinette_Website/js",
+		"/E/Github/CL0Pinette_Website/json",
 		"/E/Github/CL0Pinette_Website/woff"
 	],
 	"file_history":
 	[
+		"/E/Github/CL0Pinette_Website/css/code_highlight.css",
+		"/E/Github/CL0Pinette_Website/css/style.css",
+		"/E/Github/CL0Pinette_Website/addons/bootstrap/js/bootstrap.js",
+		"/C/Users/mathi/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/Users/mathi/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 		"/E/Github/CL0Pinette_Website/notes.vuln",
 		"/E/Github/CL0Pinette_Website/zz.py",
 		"/E/Github/CL0Pinette_Website/addons/popper/@popperjs/core/package.json",
@@ -478,7 +531,6 @@
 		"/C/Users/mathi/AppData/Roaming/Sublime Text 3/Installed Packages/Console Exec.sublime-package",
 		"/C/Users/mathi/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 		"/C/Users/mathi/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
-		"/E/Github/CL0Pinette_Website/css/code_highlight.css",
 		"/E/Github/CL0Pinette_Website/_config.yml",
 		"/E/Github/CL0Pinette_Website/zz.php",
 		"/C/Users/mathi/AppData/Roaming/Sublime Text 3/Packages/Browser Refresh/Default (Windows).sublime-keymap",
@@ -555,7 +607,6 @@
 		"/C/Users/mathi/AppData/Roaming/Sublime Text 3/Packages/Phpcs/phpcs.sublime-settings",
 		"/C/Users/mathi/AppData/Roaming/Sublime Text 3/Packages/Phpcs/Default (Windows).sublime-keymap",
 		"/C/Users/mathi/AppData/Roaming/Sublime Text 3/Packages/PHP Form Builder/README.md",
-		"/C/Users/mathi/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
 		"/C/Users/mathi/AppData/Roaming/Sublime Text 3/Packages/PHP Form Builder/Default (Windows).sublime-keymap",
 		"/C/Users/mathi/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
 		"/C/Users/mathi/Desktop/gameconfig.xml",
@@ -594,14 +645,11 @@
 		"/E/GTA5/RagePluginHook.log",
 		"/E/GTA5/ExecuteCode/Code1.cs",
 		"/E/GTA5/Logs/RagePluginHook_22072019_100210.log",
-		"/C/Users/mathi/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
-		"/C/Users/mathi/Desktop/twitter-power/twitter_info.py",
-		"/C/Users/mathi/Desktop/twitter-power/auto_tweet.py",
-		"/C/Users/mathi/Desktop/navitia_python_wrapper-master/setup.py"
+		"/C/Users/mathi/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings"
 	],
 	"find":
 	{
-		"height": 32.0
+		"height": 55.0
 	},
 	"find_in_files":
 	{
@@ -616,6 +664,34 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"navbar-text",
+			".footer",
+			"footer",
+			".footer",
+			"footer",
+			"success",
+			"--breakpoint-xl",
+			"1200px",
+			"992px",
+			"768px",
+			"576px",
+			"#f8f9fa",
+			"#343a40",
+			"#6c757d",
+			"#000000",
+			"#fff",
+			"#17a2b8",
+			"#20c997",
+			"#28a745",
+			"#ffc107",
+			"#fd7e14",
+			"#dc3545",
+			"#e83e8c",
+			"#6f42c1",
+			"#6610f2",
+			"#007bff",
+			"#28a745",
+			"font-family-sans-serif",
 			" monospace",
 			"JetBrains Mono",
 			" ;",
@@ -699,6 +775,24 @@
 		"regex": false,
 		"replace_history":
 		[
+			"var(--breakpoint-xl)",
+			"var(--breakpoint-lg)",
+			"var(--breakpoint-md)",
+			"var(--light)",
+			"var(--gray-dark)",
+			"var(--gray)",
+			"var(--black)",
+			"var(--white)",
+			"var(--cyan)",
+			"var(--teal)",
+			"var(--green)",
+			"var(--yellow)",
+			"var(--orange)",
+			"var(--red)",
+			"var(--pink)",
+			"var(--purple)",
+			"var(--indigo)",
+			"var(--blue)",
 			"",
 			"JetBrains",
 			";",
@@ -714,251 +808,11 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "css/style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5209,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								489,
-								489
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										1020,
-										1021
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										441,
-										442
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"git_gutter_is_enabled": true,
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 189.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "css/code_highlight.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2030,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								391,
-								391
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										938,
-										939
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										35,
-										36
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
-							],
-							"git_gutter_is_enabled": true,
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "zz.php",
 					"semi_transient": false,
 					"settings":
@@ -994,56 +848,56 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -1057,30 +911,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 6,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
+				},
 				{
-					"buffer": 3,
+					"buffer": 1,
 					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 319,
+						"buffer_size": 2982,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								150,
-								150
+								2982,
+								2982
 							]
 						],
 						"settings":
@@ -1103,16 +951,162 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"spell_check": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1491.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "writeup.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								354
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										349,
+										353
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										17,
+										21
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
@@ -1128,16 +1122,81 @@
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_tag_content",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "js/search.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -1148,6 +1207,6377 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "addons/bootstrap/css/bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 200091,
+						"regions":
+						{
+							"col_00000001":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1342,
+										1358
+									],
+									[
+										195271,
+										195287
+									]
+								],
+								"scope": "col_00000001"
+							},
+							"col_00000001_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00000001_circle.png",
+								"regions":
+								[
+									[
+										1311,
+										1311
+									],
+									[
+										195251,
+										195251
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_00000007":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										100161,
+										100180
+									],
+									[
+										100467,
+										100486
+									]
+								],
+								"scope": "col_00000007"
+							},
+							"col_00000007_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00000007_circle.png",
+								"regions":
+								[
+									[
+										100141,
+										100141
+									],
+									[
+										100447,
+										100447
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_0000000C":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										27267,
+										27286
+									],
+									[
+										122033,
+										122052
+									]
+								],
+								"scope": "col_0000000C"
+							},
+							"col_0000000C_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0000000C_circle.png",
+								"regions":
+								[
+									[
+										27247,
+										27247
+									],
+									[
+										122006,
+										122006
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_00000013":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										27359,
+										27379
+									],
+									[
+										30542,
+										30562
+									],
+									[
+										30622,
+										30642
+									],
+									[
+										30746,
+										30766
+									],
+									[
+										167267,
+										167287
+									]
+								],
+								"scope": "col_00000013"
+							},
+							"col_00000013_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00000013_circle.png",
+								"regions":
+								[
+									[
+										27339,
+										27339
+									],
+									[
+										30522,
+										30522
+									],
+									[
+										30602,
+										30602
+									],
+									[
+										30726,
+										30726
+									],
+									[
+										167234,
+										167234
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_00000019":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										6192,
+										6210
+									],
+									[
+										97119,
+										97137
+									],
+									[
+										121414,
+										121432
+									],
+									[
+										121466,
+										121484
+									]
+								],
+								"scope": "col_00000019"
+							},
+							"col_00000019_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00000019_circle.png",
+								"regions":
+								[
+									[
+										6168,
+										6168
+									],
+									[
+										97103,
+										97103
+									],
+									[
+										121394,
+										121394
+									],
+									[
+										121434,
+										121434
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_0000001F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										99232,
+										99252
+									],
+									[
+										100209,
+										100229
+									],
+									[
+										100512,
+										100532
+									],
+									[
+										113433,
+										113453
+									]
+								],
+								"scope": "col_0000001F"
+							},
+							"col_0000001F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0000001F_circle.png",
+								"regions":
+								[
+									[
+										99212,
+										99212
+									],
+									[
+										100182,
+										100182
+									],
+									[
+										100488,
+										100488
+									],
+									[
+										113413,
+										113413
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_00000026":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										63845,
+										63864
+									],
+									[
+										167341,
+										167360
+									]
+								],
+								"scope": "col_00000026"
+							},
+							"col_00000026_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00000026_circle.png",
+								"regions":
+								[
+									[
+										63825,
+										63825
+									],
+									[
+										167313,
+										167313
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_0000002C":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										167415,
+										167435
+									]
+								],
+								"scope": "col_0000002C"
+							},
+							"col_0000002C_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0000002C_circle.png",
+								"regions":
+								[
+									[
+										167389,
+										167389
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_00000033":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										124312,
+										124330
+									],
+									[
+										129546,
+										129564
+									]
+								],
+								"scope": "col_00000033"
+							},
+							"col_00000033_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_00000033_circle.png",
+								"regions":
+								[
+									[
+										124292,
+										124292
+									],
+									[
+										129526,
+										129526
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_0000003F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										130216,
+										130235
+									],
+									[
+										130829,
+										130848
+									],
+									[
+										131404,
+										131423
+									],
+									[
+										132292,
+										132311
+									]
+								],
+								"scope": "col_0000003F"
+							},
+							"col_0000003F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0000003F_circle.png",
+								"regions":
+								[
+									[
+										130196,
+										130196
+									],
+									[
+										130807,
+										130807
+									],
+									[
+										131381,
+										131381
+									],
+									[
+										132271,
+										132271
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_0000004C":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										96808,
+										96826
+									]
+								],
+								"scope": "col_0000004C"
+							},
+							"col_0000004C_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0000004C_circle.png",
+								"regions":
+								[
+									[
+										96799,
+										96799
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_0000007F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										96610,
+										96628
+									],
+									[
+										97083,
+										97101
+									],
+									[
+										97499,
+										97517
+									],
+									[
+										198338,
+										198356
+									]
+								],
+								"scope": "col_0000007F"
+							},
+							"col_0000007F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0000007F_circle.png",
+								"regions":
+								[
+									[
+										96601,
+										96601
+									],
+									[
+										97074,
+										97074
+									],
+									[
+										97490,
+										97490
+									],
+									[
+										198329,
+										198329
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_000000B2":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										96729,
+										96747
+									]
+								],
+								"scope": "col_000000B2"
+							},
+							"col_000000B2_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_000000B2_circle.png",
+								"regions":
+								[
+									[
+										96720,
+										96720
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_000000E5":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										96437,
+										96455
+									],
+									[
+										96540,
+										96558
+									],
+									[
+										97019,
+										97037
+									],
+									[
+										97562,
+										97580
+									],
+									[
+										97667,
+										97685
+									]
+								],
+								"scope": "col_000000E5"
+							},
+							"col_000000E5_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_000000E5_circle.png",
+								"regions":
+								[
+									[
+										96428,
+										96428
+									],
+									[
+										96531,
+										96531
+									],
+									[
+										97010,
+										97010
+									],
+									[
+										97553,
+										97553
+									],
+									[
+										97658,
+										97658
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_000000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										453,
+										460
+									],
+									[
+										120892,
+										120896
+									],
+									[
+										120977,
+										120981
+									],
+									[
+										124502,
+										124506
+									],
+									[
+										127546,
+										127550
+									],
+									[
+										127926,
+										127930
+									],
+									[
+										128271,
+										128275
+									],
+									[
+										128644,
+										128648
+									],
+									[
+										128782,
+										128786
+									],
+									[
+										199573,
+										199577
+									]
+								],
+								"scope": "col_000000FF"
+							},
+							"col_000000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_000000FF_circle.png",
+								"regions":
+								[
+									[
+										442,
+										442
+									],
+									[
+										120883,
+										120883
+									],
+									[
+										120968,
+										120968
+									],
+									[
+										124482,
+										124482
+									],
+									[
+										127526,
+										127526
+									],
+									[
+										127904,
+										127904
+									],
+									[
+										128248,
+										128248
+									],
+									[
+										128623,
+										128623
+									],
+									[
+										128762,
+										128762
+									],
+									[
+										199551,
+										199551
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_002752FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										109903,
+										109910
+									]
+								],
+								"scope": "col_002752FF"
+							},
+							"col_002752FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_002752FF_circle.png",
+								"regions":
+								[
+									[
+										109894,
+										109894
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_004085FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										109747,
+										109754
+									],
+									[
+										117863,
+										117870
+									],
+									[
+										118024,
+										118031
+									],
+									[
+										118165,
+										118172
+									],
+									[
+										118190,
+										118197
+									]
+								],
+								"scope": "col_004085FF"
+							},
+							"col_004085FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_004085FF_circle.png",
+								"regions":
+								[
+									[
+										109738,
+										109738
+									],
+									[
+										117854,
+										117854
+									],
+									[
+										118015,
+										118015
+									],
+									[
+										118145,
+										118145
+									],
+									[
+										118174,
+										118174
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_0056B3FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										2818,
+										2825
+									],
+									[
+										62021,
+										62028
+									],
+									[
+										104664,
+										104671
+									],
+									[
+										197304,
+										197311
+									]
+								],
+								"scope": "col_0056B3FF"
+							},
+							"col_0056B3FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0056B3FF_circle.png",
+								"regions":
+								[
+									[
+										2809,
+										2809
+									],
+									[
+										62012,
+										62012
+									],
+									[
+										104655,
+										104655
+									],
+									[
+										197295,
+										197295
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_005CBFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										47875,
+										47882
+									]
+								],
+								"scope": "col_005CBFFF"
+							},
+							"col_005CBFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_005CBFFF_circle.png",
+								"regions":
+								[
+									[
+										47859,
+										47859
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_0062CCFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										47346,
+										47353
+									],
+									[
+										47467,
+										47474
+									],
+									[
+										47850,
+										47857
+									],
+									[
+										106929,
+										106936
+									],
+									[
+										138847,
+										138854
+									]
+								],
+								"scope": "col_0062CCFF"
+							},
+							"col_0062CCFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0062CCFF_circle.png",
+								"regions":
+								[
+									[
+										47330,
+										47330
+									],
+									[
+										47451,
+										47451
+									],
+									[
+										47830,
+										47830
+									],
+									[
+										106909,
+										106909
+									],
+									[
+										138827,
+										138827
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_0069D9FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										47321,
+										47328
+									],
+									[
+										47442,
+										47449
+									]
+								],
+								"scope": "col_0069D9FF"
+							},
+							"col_0069D9FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0069D9FF_circle.png",
+								"regions":
+								[
+									[
+										47301,
+										47301
+									],
+									[
+										47422,
+										47422
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_007BFF3F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										33255,
+										33278
+									],
+									[
+										46947,
+										46970
+									],
+									[
+										76131,
+										76154
+									],
+									[
+										80817,
+										80840
+									],
+									[
+										81977,
+										82000
+									],
+									[
+										83265,
+										83288
+									],
+									[
+										83384,
+										83407
+									],
+									[
+										83496,
+										83519
+									],
+									[
+										104829,
+										104852
+									]
+								],
+								"scope": "col_007BFF3F"
+							},
+							"col_007BFF3F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_007BFF3F_circle.png",
+								"regions":
+								[
+									[
+										33228,
+										33228
+									],
+									[
+										46920,
+										46920
+									],
+									[
+										76104,
+										76104
+									],
+									[
+										80790,
+										80790
+									],
+									[
+										81950,
+										81950
+									],
+									[
+										83214,
+										83214
+									],
+									[
+										83333,
+										83333
+									],
+									[
+										83445,
+										83445
+									],
+									[
+										104802,
+										104802
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_007BFF7F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										54902,
+										54924
+									],
+									[
+										55513,
+										55535
+									],
+									[
+										78168,
+										78190
+									],
+									[
+										78311,
+										78333
+									],
+									[
+										78774,
+										78796
+									],
+									[
+										80082,
+										80104
+									],
+									[
+										107029,
+										107051
+									]
+								],
+								"scope": "col_007BFF7F"
+							},
+							"col_007BFF7F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_007BFF7F_circle.png",
+								"regions":
+								[
+									[
+										54875,
+										54875
+									],
+									[
+										55486,
+										55486
+									],
+									[
+										78148,
+										78148
+									],
+									[
+										78291,
+										78291
+									],
+									[
+										78754,
+										78754
+									],
+									[
+										80062,
+										80062
+									],
+									[
+										107002,
+										107002
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_007BFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										234,
+										241
+									]
+								],
+								"scope": "col_007BFFFF"
+							},
+							"col_007BFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_007BFFFF_circle.png",
+								"regions":
+								[
+									[
+										224,
+										224
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_040505FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										111248,
+										111255
+									]
+								],
+								"scope": "col_040505FF"
+							},
+							"col_040505FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_040505FF_circle.png",
+								"regions":
+								[
+									[
+										111239,
+										111239
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_062C33FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										110482,
+										110489
+									]
+								],
+								"scope": "col_062C33FF"
+							},
+							"col_062C33FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_062C33FF_circle.png",
+								"regions":
+								[
+									[
+										110473,
+										110473
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_0B2E13FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										110297,
+										110304
+									]
+								],
+								"scope": "col_0B2E13FF"
+							},
+							"col_0B2E13FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0B2E13FF_circle.png",
+								"regions":
+								[
+									[
+										110288,
+										110288
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_0C5460FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										110332,
+										110339
+									],
+									[
+										118993,
+										119000
+									],
+									[
+										119148,
+										119155
+									],
+									[
+										119286,
+										119293
+									],
+									[
+										119311,
+										119318
+									]
+								],
+								"scope": "col_0C5460FF"
+							},
+							"col_0C5460FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0C5460FF_circle.png",
+								"regions":
+								[
+									[
+										110323,
+										110323
+									],
+									[
+										118984,
+										118984
+									],
+									[
+										119139,
+										119139
+									],
+									[
+										119266,
+										119266
+									],
+									[
+										119295,
+										119295
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_0F6674FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										197689,
+										197696
+									]
+								],
+								"scope": "col_0F6674FF"
+							},
+							"col_0F6674FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_0F6674FF_circle.png",
+								"regions":
+								[
+									[
+										197680,
+										197680
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_10707FFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										50717,
+										50724
+									]
+								],
+								"scope": "col_10707FFF"
+							},
+							"col_10707FFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_10707FFF_circle.png",
+								"regions":
+								[
+									[
+										50701,
+										50701
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_117A8BFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										50209,
+										50216
+									],
+									[
+										50324,
+										50331
+									],
+									[
+										50692,
+										50699
+									],
+									[
+										107812,
+										107819
+									],
+									[
+										139428,
+										139435
+									]
+								],
+								"scope": "col_117A8BFF"
+							},
+							"col_117A8BFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_117A8BFF_circle.png",
+								"regions":
+								[
+									[
+										50193,
+										50193
+									],
+									[
+										50308,
+										50308
+									],
+									[
+										50672,
+										50672
+									],
+									[
+										107792,
+										107792
+									],
+									[
+										139408,
+										139408
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_121416FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										198194,
+										198201
+									]
+								],
+								"scope": "col_121416FF"
+							},
+							"col_121416FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_121416FF_circle.png",
+								"regions":
+								[
+									[
+										198185,
+										198185
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_138496FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										50184,
+										50191
+									],
+									[
+										50299,
+										50306
+									]
+								],
+								"scope": "col_138496FF"
+							},
+							"col_138496FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_138496FF_circle.png",
+								"regions":
+								[
+									[
+										50164,
+										50164
+									],
+									[
+										50279,
+										50279
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_155724FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										110141,
+										110148
+									],
+									[
+										118621,
+										118628
+									],
+									[
+										118782,
+										118789
+									],
+									[
+										118923,
+										118930
+									],
+									[
+										118948,
+										118955
+									]
+								],
+								"scope": "col_155724FF"
+							},
+							"col_155724FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_155724FF_circle.png",
+								"regions":
+								[
+									[
+										110132,
+										110132
+									],
+									[
+										118612,
+										118612
+									],
+									[
+										118773,
+										118773
+									],
+									[
+										118903,
+										118903
+									],
+									[
+										118932,
+										118932
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_16181BFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										66766,
+										66773
+									]
+								],
+								"scope": "col_16181BFF"
+							},
+							"col_16181BFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_16181BFF_circle.png",
+								"regions":
+								[
+									[
+										66757,
+										66757
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_171A1DFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										54409,
+										54416
+									]
+								],
+								"scope": "col_171A1DFF"
+							},
+							"col_171A1DFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_171A1DFF_circle.png",
+								"regions":
+								[
+									[
+										54393,
+										54393
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_17A2B87F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										57673,
+										57696
+									],
+									[
+										58261,
+										58284
+									],
+									[
+										107906,
+										107929
+									]
+								],
+								"scope": "col_17A2B87F"
+							},
+							"col_17A2B87F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_17A2B87F_circle.png",
+								"regions":
+								[
+									[
+										57646,
+										57646
+									],
+									[
+										58234,
+										58234
+									],
+									[
+										107879,
+										107879
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_17A2B8FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										413,
+										420
+									]
+								],
+								"scope": "col_17A2B8FF"
+							},
+							"col_17A2B8FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_17A2B8FF_circle.png",
+								"regions":
+								[
+									[
+										403,
+										403
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_19692CFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										197569,
+										197576
+									]
+								],
+								"scope": "col_19692CFF"
+							},
+							"col_19692CFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_19692CFF_circle.png",
+								"regions":
+								[
+									[
+										197560,
+										197560
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_1B1E21FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										111098,
+										111105
+									],
+									[
+										120469,
+										120476
+									],
+									[
+										120624,
+										120631
+									],
+									[
+										120762,
+										120769
+									],
+									[
+										120787,
+										120794
+									]
+								],
+								"scope": "col_1B1E21FF"
+							},
+							"col_1B1E21FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_1B1E21FF_circle.png",
+								"regions":
+								[
+									[
+										111089,
+										111089
+									],
+									[
+										120460,
+										120460
+									],
+									[
+										120615,
+										120615
+									],
+									[
+										120742,
+										120742
+									],
+									[
+										120771,
+										120771
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_1C7430FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										49798,
+										49805
+									]
+								],
+								"scope": "col_1C7430FF"
+							},
+							"col_1C7430FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_1C7430FF_circle.png",
+								"regions":
+								[
+									[
+										49782,
+										49782
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_1D2124FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										53893,
+										53900
+									],
+									[
+										54008,
+										54015
+									],
+									[
+										54384,
+										54391
+									],
+									[
+										108944,
+										108951
+									],
+									[
+										140185,
+										140192
+									]
+								],
+								"scope": "col_1D2124FF"
+							},
+							"col_1D2124FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_1D2124FF_circle.png",
+								"regions":
+								[
+									[
+										53877,
+										53877
+									],
+									[
+										53992,
+										53992
+									],
+									[
+										54364,
+										54364
+									],
+									[
+										108924,
+										108924
+									],
+									[
+										140165,
+										140165
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_1E7E34FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										49268,
+										49275
+									],
+									[
+										49389,
+										49396
+									],
+									[
+										49773,
+										49780
+									],
+									[
+										107528,
+										107535
+									],
+									[
+										139248,
+										139255
+									]
+								],
+								"scope": "col_1E7E34FF"
+							},
+							"col_1E7E34FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_1E7E34FF_circle.png",
+								"regions":
+								[
+									[
+										49252,
+										49252
+									],
+									[
+										49373,
+										49373
+									],
+									[
+										49753,
+										49753
+									],
+									[
+										107508,
+										107508
+									],
+									[
+										139228,
+										139228
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_202326FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										110103,
+										110110
+									]
+								],
+								"scope": "col_202326FF"
+							},
+							"col_202326FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_202326FF_circle.png",
+								"regions":
+								[
+									[
+										110094,
+										110094
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_20C997FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										394,
+										401
+									]
+								],
+								"scope": "col_20C997FF"
+							},
+							"col_20C997FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_20C997FF_circle.png",
+								"regions":
+								[
+									[
+										384,
+										384
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_212529FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1599,
+										1606
+									],
+									[
+										7407,
+										7414
+									],
+									[
+										7563,
+										7570
+									],
+									[
+										26568,
+										26575
+									],
+									[
+										27330,
+										27337
+									],
+									[
+										34740,
+										34747
+									],
+									[
+										46284,
+										46291
+									],
+									[
+										46844,
+										46851
+									],
+									[
+										50958,
+										50965
+									],
+									[
+										51066,
+										51073
+									],
+									[
+										51182,
+										51189
+									],
+									[
+										51356,
+										51363
+									],
+									[
+										51584,
+										51591
+									],
+									[
+										52815,
+										52822
+									],
+									[
+										52919,
+										52926
+									],
+									[
+										53031,
+										53038
+									],
+									[
+										53202,
+										53209
+									],
+									[
+										53422,
+										53429
+									],
+									[
+										58408,
+										58415
+									],
+									[
+										58894,
+										58901
+									],
+									[
+										60219,
+										60226
+									],
+									[
+										60690,
+										60697
+									],
+									[
+										63710,
+										63717
+									],
+									[
+										66608,
+										66615
+									],
+									[
+										67374,
+										67381
+									],
+									[
+										107960,
+										107967
+									],
+									[
+										108063,
+										108070
+									],
+									[
+										108530,
+										108537
+									],
+									[
+										108628,
+										108635
+									],
+									[
+										113251,
+										113258
+									],
+									[
+										132839,
+										132846
+									],
+									[
+										198239,
+										198246
+									]
+								],
+								"scope": "col_212529FF"
+							},
+							"col_212529FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_212529FF_circle.png",
+								"regions":
+								[
+									[
+										1590,
+										1590
+									],
+									[
+										7387,
+										7387
+									],
+									[
+										7554,
+										7554
+									],
+									[
+										26559,
+										26559
+									],
+									[
+										27321,
+										27321
+									],
+									[
+										34731,
+										34731
+									],
+									[
+										46275,
+										46275
+									],
+									[
+										46835,
+										46835
+									],
+									[
+										50949,
+										50949
+									],
+									[
+										51057,
+										51057
+									],
+									[
+										51173,
+										51173
+									],
+									[
+										51347,
+										51347
+									],
+									[
+										51575,
+										51575
+									],
+									[
+										52806,
+										52806
+									],
+									[
+										52910,
+										52910
+									],
+									[
+										53022,
+										53022
+									],
+									[
+										53193,
+										53193
+									],
+									[
+										53413,
+										53413
+									],
+									[
+										58399,
+										58399
+									],
+									[
+										58885,
+										58885
+									],
+									[
+										60210,
+										60210
+									],
+									[
+										60681,
+										60681
+									],
+									[
+										63701,
+										63701
+									],
+									[
+										66599,
+										66599
+									],
+									[
+										67365,
+										67365
+									],
+									[
+										107951,
+										107951
+									],
+									[
+										108054,
+										108054
+									],
+									[
+										108521,
+										108521
+									],
+									[
+										108619,
+										108619
+									],
+									[
+										113242,
+										113242
+									],
+									[
+										132830,
+										132830
+									],
+									[
+										198230,
+										198230
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_218838FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										49243,
+										49250
+									],
+									[
+										49364,
+										49371
+									]
+								],
+								"scope": "col_218838FF"
+							},
+							"col_218838FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_218838FF_circle.png",
+								"regions":
+								[
+									[
+										49223,
+										49223
+									],
+									[
+										49344,
+										49344
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_23272BFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										53868,
+										53875
+									],
+									[
+										53983,
+										53990
+									]
+								],
+								"scope": "col_23272BFF"
+							},
+							"col_23272BFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_23272BFF_circle.png",
+								"regions":
+								[
+									[
+										53848,
+										53848
+									],
+									[
+										53963,
+										53963
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_268FFF7F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										47503,
+										47526
+									],
+									[
+										48073,
+										48096
+									]
+								],
+								"scope": "col_268FFF7F"
+							},
+							"col_268FFF7F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_268FFF7F_circle.png",
+								"regions":
+								[
+									[
+										47476,
+										47476
+									],
+									[
+										48046,
+										48046
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_28A7453F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										37625,
+										37648
+									],
+									[
+										38709,
+										38732
+									],
+									[
+										39819,
+										39842
+									],
+									[
+										40389,
+										40412
+									]
+								],
+								"scope": "col_28A7453F"
+							},
+							"col_28A7453F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_28A7453F_circle.png",
+								"regions":
+								[
+									[
+										37598,
+										37598
+									],
+									[
+										38682,
+										38682
+									],
+									[
+										39792,
+										39792
+									],
+									[
+										40362,
+										40362
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_28A7457F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										56766,
+										56788
+									],
+									[
+										57380,
+										57402
+									],
+									[
+										107628,
+										107650
+									]
+								],
+								"scope": "col_28A7457F"
+							},
+							"col_28A7457F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_28A7457F_circle.png",
+								"regions":
+								[
+									[
+										56739,
+										56739
+									],
+									[
+										57353,
+										57353
+									],
+									[
+										107601,
+										107601
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_28A745E5":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										36708,
+										36730
+									]
+								],
+								"scope": "col_28A745E5"
+							},
+							"col_28A745E5_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_28A745E5_circle.png",
+								"regions":
+								[
+									[
+										36688,
+										36688
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_28A745FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										375,
+										382
+									]
+								],
+								"scope": "col_28A745FF"
+							},
+							"col_28A745FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_28A745FF_circle.png",
+								"regions":
+								[
+									[
+										364,
+										364
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_343A407F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										61285,
+										61306
+									],
+									[
+										61886,
+										61907
+									],
+									[
+										109038,
+										109059
+									]
+								],
+								"scope": "col_343A407F"
+							},
+							"col_343A407F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_343A407F_circle.png",
+								"regions":
+								[
+									[
+										61258,
+										61258
+									],
+									[
+										61859,
+										61859
+									],
+									[
+										109011,
+										109011
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_343A40FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										496,
+										503
+									]
+								],
+								"scope": "col_343A40FF"
+							},
+							"col_343A40FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_343A40FF_circle.png",
+								"regions":
+								[
+									[
+										481,
+										481
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_34CE57FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										39598,
+										39605
+									],
+									[
+										39627,
+										39634
+									]
+								],
+								"scope": "col_34CE57FF"
+							},
+							"col_34CE57FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_34CE57FF_circle.png",
+								"regions":
+								[
+									[
+										39582,
+										39582
+									],
+									[
+										39607,
+										39607
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_383D41FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										109943,
+										109950
+									],
+									[
+										118240,
+										118247
+									],
+									[
+										118405,
+										118412
+									],
+									[
+										118548,
+										118555
+									],
+									[
+										118573,
+										118580
+									]
+								],
+								"scope": "col_383D41FF"
+							},
+							"col_383D41FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_383D41FF_circle.png",
+								"regions":
+								[
+									[
+										109934,
+										109934
+									],
+									[
+										118231,
+										118231
+									],
+									[
+										118396,
+										118396
+									],
+									[
+										118528,
+										118528
+									],
+									[
+										118557,
+										118557
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_3AB0C37F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										50360,
+										50383
+									],
+									[
+										50906,
+										50929
+									]
+								],
+								"scope": "col_3AB0C37F"
+							},
+							"col_3AB0C37F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_3AB0C37F_circle.png",
+								"regions":
+								[
+									[
+										50333,
+										50333
+									],
+									[
+										50879,
+										50879
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_454D55FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										30872,
+										30879
+									],
+									[
+										31133,
+										31140
+									]
+								],
+								"scope": "col_454D55FF"
+							},
+							"col_454D55FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_454D55FF_circle.png",
+								"regions":
+								[
+									[
+										30856,
+										30856
+									],
+									[
+										31117,
+										31117
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_48B4617F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										49425,
+										49447
+									],
+									[
+										49996,
+										50018
+									]
+								],
+								"scope": "col_48B4617F"
+							},
+							"col_48B4617F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_48B4617F_circle.png",
+								"regions":
+								[
+									[
+										49398,
+										49398
+									],
+									[
+										49969,
+										49969
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_491217FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										110875,
+										110882
+									]
+								],
+								"scope": "col_491217FF"
+							},
+							"col_491217FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_491217FF_circle.png",
+								"regions":
+								[
+									[
+										110866,
+										110866
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_494F54FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										197439,
+										197446
+									]
+								],
+								"scope": "col_494F54FF"
+							},
+							"col_494F54FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_494F54FF_circle.png",
+								"regions":
+								[
+									[
+										197430,
+										197430
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_495057FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										30918,
+										30925
+									],
+									[
+										32654,
+										32661
+									],
+									[
+										33103,
+										33110
+									],
+									[
+										33146,
+										33153
+									],
+									[
+										34025,
+										34032
+									],
+									[
+										73278,
+										73285
+									],
+									[
+										80319,
+										80326
+									],
+									[
+										80888,
+										80895
+									],
+									[
+										81274,
+										81281
+									],
+									[
+										82523,
+										82530
+									],
+									[
+										82832,
+										82839
+									],
+									[
+										87845,
+										87852
+									],
+									[
+										113017,
+										113024
+									],
+									[
+										113138,
+										113145
+									]
+								],
+								"scope": "col_495057FF"
+							},
+							"col_495057FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_495057FF_circle.png",
+								"regions":
+								[
+									[
+										30909,
+										30909
+									],
+									[
+										32645,
+										32645
+									],
+									[
+										33082,
+										33082
+									],
+									[
+										33137,
+										33137
+									],
+									[
+										34016,
+										34016
+									],
+									[
+										73269,
+										73269
+									],
+									[
+										80310,
+										80310
+									],
+									[
+										80879,
+										80879
+									],
+									[
+										81253,
+										81253
+									],
+									[
+										82514,
+										82514
+									],
+									[
+										82823,
+										82823
+									],
+									[
+										87836,
+										87836
+									],
+									[
+										113008,
+										113008
+									],
+									[
+										113129,
+										113129
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_4E555BFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										48841,
+										48848
+									]
+								],
+								"scope": "col_4E555BFF"
+							},
+							"col_4E555BFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_4E555BFF_circle.png",
+								"regions":
+								[
+									[
+										48825,
+										48825
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_52585D7F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										54044,
+										54065
+									],
+									[
+										54598,
+										54619
+									]
+								],
+								"scope": "col_52585D7F"
+							},
+							"col_52585D7F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_52585D7F_circle.png",
+								"regions":
+								[
+									[
+										54017,
+										54017
+									],
+									[
+										54571,
+										54571
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_533F03FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										110684,
+										110691
+									]
+								],
+								"scope": "col_533F03FF"
+							},
+							"col_533F03FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_533F03FF_circle.png",
+								"regions":
+								[
+									[
+										110675,
+										110675
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_545B62FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										48297,
+										48304
+									],
+									[
+										48422,
+										48429
+									],
+									[
+										48816,
+										48823
+									],
+									[
+										107228,
+										107235
+									],
+									[
+										139052,
+										139059
+									]
+								],
+								"scope": "col_545B62FF"
+							},
+							"col_545B62FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_545B62FF_circle.png",
+								"regions":
+								[
+									[
+										48281,
+										48281
+									],
+									[
+										48406,
+										48406
+									],
+									[
+										48796,
+										48796
+									],
+									[
+										107208,
+										107208
+									],
+									[
+										139032,
+										139032
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_5A6268FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										48272,
+										48279
+									],
+									[
+										48397,
+										48404
+									]
+								],
+								"scope": "col_5A6268FF"
+							},
+							"col_5A6268FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_5A6268FF_circle.png",
+								"regions":
+								[
+									[
+										48252,
+										48252
+									],
+									[
+										48377,
+										48377
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_6610F2FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										255,
+										262
+									]
+								],
+								"scope": "col_6610F2FF"
+							},
+							"col_6610F2FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_6610F2FF_circle.png",
+								"regions":
+								[
+									[
+										243,
+										243
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_686868FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										111063,
+										111070
+									]
+								],
+								"scope": "col_686868FF"
+							},
+							"col_686868FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_686868FF_circle.png",
+								"regions":
+								[
+									[
+										111054,
+										111054
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_6C757D7F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										55826,
+										55850
+									],
+									[
+										56455,
+										56479
+									],
+									[
+										107332,
+										107356
+									]
+								],
+								"scope": "col_6C757D7F"
+							},
+							"col_6C757D7F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_6C757D7F_circle.png",
+								"regions":
+								[
+									[
+										55799,
+										55799
+									],
+									[
+										56428,
+										56428
+									],
+									[
+										107305,
+										107305
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_6C757DFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										472,
+										479
+									]
+								],
+								"scope": "col_6C757DFF"
+							},
+							"col_6C757DFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_6C757DFF_circle.png",
+								"regions":
+								[
+									[
+										462,
+										462
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_6F42C1FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										276,
+										283
+									]
+								],
+								"scope": "col_6F42C1FF"
+							},
+							"col_6F42C1FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_6F42C1FF_circle.png",
+								"regions":
+								[
+									[
+										264,
+										264
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_721C24FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										110721,
+										110728
+									],
+									[
+										119733,
+										119740
+									],
+									[
+										119892,
+										119899
+									],
+									[
+										120032,
+										120039
+									],
+									[
+										120057,
+										120064
+									]
+								],
+								"scope": "col_721C24FF"
+							},
+							"col_721C24FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_721C24FF_circle.png",
+								"regions":
+								[
+									[
+										110712,
+										110712
+									],
+									[
+										119724,
+										119724
+									],
+									[
+										119883,
+										119883
+									],
+									[
+										120012,
+										120012
+									],
+									[
+										120041,
+										120041
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_7ABAFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										27585,
+										27592
+									]
+								],
+								"scope": "col_7ABAFFFF"
+							},
+							"col_7ABAFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_7ABAFFFF_circle.png",
+								"regions":
+								[
+									[
+										27569,
+										27569
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_80BDFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										33205,
+										33212
+									],
+									[
+										76251,
+										76258
+									],
+									[
+										80767,
+										80774
+									],
+									[
+										81941,
+										81948
+									]
+								],
+								"scope": "col_80BDFFFF"
+							},
+							"col_80BDFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_80BDFFFF_circle.png",
+								"regions":
+								[
+									[
+										33189,
+										33189
+									],
+									[
+										76235,
+										76235
+									],
+									[
+										80751,
+										80751
+									],
+									[
+										81925,
+										81925
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_818182FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										110911,
+										110918
+									],
+									[
+										120103,
+										120110
+									],
+									[
+										120260,
+										120267
+									],
+									[
+										120399,
+										120406
+									],
+									[
+										120424,
+										120431
+									]
+								],
+								"scope": "col_818182FF"
+							},
+							"col_818182FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_818182FF_circle.png",
+								"regions":
+								[
+									[
+										110902,
+										110902
+									],
+									[
+										120094,
+										120094
+									],
+									[
+										120251,
+										120251
+									],
+									[
+										120379,
+										120379
+									],
+									[
+										120408,
+										120408
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_828A917F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										48458,
+										48482
+									],
+									[
+										49045,
+										49069
+									]
+								],
+								"scope": "col_828A917F"
+							},
+							"col_828A917F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_828A917F_circle.png",
+								"regions":
+								[
+									[
+										48431,
+										48431
+									],
+									[
+										49018,
+										49018
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_856404FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										110520,
+										110527
+									],
+									[
+										119359,
+										119366
+									],
+									[
+										119520,
+										119527
+									],
+									[
+										119661,
+										119668
+									],
+									[
+										119686,
+										119693
+									]
+								],
+								"scope": "col_856404FF"
+							},
+							"col_856404FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_856404FF_circle.png",
+								"regions":
+								[
+									[
+										110511,
+										110511
+									],
+									[
+										119350,
+										119350
+									],
+									[
+										119511,
+										119511
+									],
+									[
+										119641,
+										119641
+									],
+									[
+										119670,
+										119670
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_86CFDAFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										28766,
+										28773
+									]
+								],
+								"scope": "col_86CFDAFF"
+							},
+							"col_86CFDAFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_86CFDAFF_circle.png",
+								"regions":
+								[
+									[
+										28750,
+										28750
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_8FD19EFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										28393,
+										28400
+									]
+								],
+								"scope": "col_8FD19EFF"
+							},
+							"col_8FD19EFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_8FD19EFF_circle.png",
+								"regions":
+								[
+									[
+										28377,
+										28377
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_95999CFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										30282,
+										30289
+									]
+								],
+								"scope": "col_95999CFF"
+							},
+							"col_95999CFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_95999CFF_circle.png",
+								"regions":
+								[
+									[
+										30266,
+										30266
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_9FCDFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										27653,
+										27660
+									],
+									[
+										27766,
+										27773
+									],
+									[
+										109853,
+										109860
+									],
+									[
+										118053,
+										118060
+									]
+								],
+								"scope": "col_9FCDFFFF"
+							},
+							"col_9FCDFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_9FCDFFFF_circle.png",
+								"regions":
+								[
+									[
+										27633,
+										27633
+									],
+									[
+										27746,
+										27746
+									],
+									[
+										109833,
+										109833
+									],
+									[
+										118033,
+										118033
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_A71D2AFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										197945,
+										197952
+									]
+								],
+								"scope": "col_A71D2AFF"
+							},
+							"col_A71D2AFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_A71D2AFF_circle.png",
+								"regions":
+								[
+									[
+										197936,
+										197936
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_ABDDE5FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										28831,
+										28838
+									],
+									[
+										28938,
+										28945
+									],
+									[
+										110435,
+										110442
+									],
+									[
+										119177,
+										119184
+									]
+								],
+								"scope": "col_ABDDE5FF"
+							},
+							"col_ABDDE5FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_ABDDE5FF_circle.png",
+								"regions":
+								[
+									[
+										28811,
+										28811
+									],
+									[
+										28918,
+										28918
+									],
+									[
+										110415,
+										110415
+									],
+									[
+										119157,
+										119157
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_ADB5BDFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										77033,
+										77040
+									],
+									[
+										79159,
+										79166
+									],
+									[
+										86339,
+										86346
+									],
+									[
+										86492,
+										86499
+									],
+									[
+										86625,
+										86632
+									],
+									[
+										199142,
+										199149
+									]
+								],
+								"scope": "col_ADB5BDFF"
+							},
+							"col_ADB5BDFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_ADB5BDFF_circle.png",
+								"regions":
+								[
+									[
+										77023,
+										77023
+									],
+									[
+										79139,
+										79139
+									],
+									[
+										86319,
+										86319
+									],
+									[
+										86472,
+										86472
+									],
+									[
+										86605,
+										86605
+									],
+									[
+										199120,
+										199120
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_B1DFBBFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										28461,
+										28468
+									],
+									[
+										28574,
+										28581
+									],
+									[
+										110247,
+										110254
+									],
+									[
+										118811,
+										118818
+									]
+								],
+								"scope": "col_B1DFBBFF"
+							},
+							"col_B1DFBBFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_B1DFBBFF_circle.png",
+								"regions":
+								[
+									[
+										28441,
+										28441
+									],
+									[
+										28554,
+										28554
+									],
+									[
+										110227,
+										110227
+									],
+									[
+										118791,
+										118791
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_B21F2DFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										52571,
+										52578
+									]
+								],
+								"scope": "col_B21F2DFF"
+							},
+							"col_B21F2DFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_B21F2DFF_circle.png",
+								"regions":
+								[
+									[
+										52555,
+										52555
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_B3B7BBFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										27993,
+										28000
+									]
+								],
+								"scope": "col_B3B7BBFF"
+							},
+							"col_B3B7BBFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_B3B7BBFF_circle.png",
+								"regions":
+								[
+									[
+										27977,
+										27977
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_B3D7FFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										76384,
+										76391
+									],
+									[
+										76409,
+										76416
+									],
+									[
+										84225,
+										84232
+									],
+									[
+										85048,
+										85055
+									],
+									[
+										85874,
+										85881
+									]
+								],
+								"scope": "col_B3D7FFFF"
+							},
+							"col_B3D7FFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_B3D7FFFF_circle.png",
+								"regions":
+								[
+									[
+										76364,
+										76364
+									],
+									[
+										76393,
+										76393
+									],
+									[
+										84205,
+										84205
+									],
+									[
+										85028,
+										85028
+									],
+									[
+										85854,
+										85854
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_B8DAFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										27463,
+										27470
+									],
+									[
+										109801,
+										109808
+									],
+									[
+										117892,
+										117899
+									]
+								],
+								"scope": "col_B8DAFFFF"
+							},
+							"col_B8DAFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_B8DAFFFF_circle.png",
+								"regions":
+								[
+									[
+										27443,
+										27443
+									],
+									[
+										109785,
+										109785
+									],
+									[
+										117872,
+										117872
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_B9BBBEFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										30347,
+										30354
+									],
+									[
+										30454,
+										30461
+									],
+									[
+										111201,
+										111208
+									],
+									[
+										120653,
+										120660
+									]
+								],
+								"scope": "col_B9BBBEFF"
+							},
+							"col_B9BBBEFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_B9BBBEFF_circle.png",
+								"regions":
+								[
+									[
+										30327,
+										30327
+									],
+									[
+										30434,
+										30434
+									],
+									[
+										111181,
+										111181
+									],
+									[
+										120633,
+										120633
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_BA8B00FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										197820,
+										197827
+									]
+								],
+								"scope": "col_BA8B00FF"
+							},
+							"col_BA8B00FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_BA8B00FF_circle.png",
+								"regions":
+								[
+									[
+										197811,
+										197811
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_BD2130FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										52052,
+										52059
+									],
+									[
+										52171,
+										52178
+									],
+									[
+										52546,
+										52553
+									],
+									[
+										108381,
+										108388
+									],
+									[
+										139814,
+										139821
+									]
+								],
+								"scope": "col_BD2130FF"
+							},
+							"col_BD2130FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_BD2130FF_circle.png",
+								"regions":
+								[
+									[
+										52036,
+										52036
+									],
+									[
+										52155,
+										52155
+									],
+									[
+										52526,
+										52526
+									],
+									[
+										108361,
+										108361
+									],
+									[
+										139794,
+										139794
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_BEE5EBFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										28656,
+										28663
+									],
+									[
+										110386,
+										110393
+									],
+									[
+										119022,
+										119029
+									]
+								],
+								"scope": "col_BEE5EBFF"
+							},
+							"col_BEE5EBFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_BEE5EBFF_circle.png",
+								"regions":
+								[
+									[
+										28636,
+										28636
+									],
+									[
+										110370,
+										110370
+									],
+									[
+										119002,
+										119002
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_C3E6CBFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										28271,
+										28278
+									],
+									[
+										110195,
+										110202
+									],
+									[
+										118650,
+										118657
+									]
+								],
+								"scope": "col_C3E6CBFF"
+							},
+							"col_C3E6CBFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_C3E6CBFF_circle.png",
+								"regions":
+								[
+									[
+										28251,
+										28251
+									],
+									[
+										110179,
+										110179
+									],
+									[
+										118630,
+										118630
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_C69500FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										51638,
+										51645
+									]
+								],
+								"scope": "col_C69500FF"
+							},
+							"col_C69500FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_C69500FF_circle.png",
+								"regions":
+								[
+									[
+										51622,
+										51622
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_C6C8CAFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										30172,
+										30179
+									],
+									[
+										111152,
+										111159
+									],
+									[
+										120498,
+										120505
+									]
+								],
+								"scope": "col_C6C8CAFF"
+							},
+							"col_C6C8CAFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_C6C8CAFF_circle.png",
+								"regions":
+								[
+									[
+										30152,
+										30152
+									],
+									[
+										111136,
+										111136
+									],
+									[
+										120478,
+										120478
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_C82333FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										52027,
+										52034
+									],
+									[
+										52146,
+										52153
+									]
+								],
+								"scope": "col_C82333FF"
+							},
+							"col_C82333FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_C82333FF_circle.png",
+								"regions":
+								[
+									[
+										52007,
+										52007
+									],
+									[
+										52126,
+										52126
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_C8CBCFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										28063,
+										28070
+									],
+									[
+										28180,
+										28187
+									],
+									[
+										110051,
+										110058
+									],
+									[
+										118434,
+										118441
+									]
+								],
+								"scope": "col_C8CBCFFF"
+							},
+							"col_C8CBCFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_C8CBCFFF_circle.png",
+								"regions":
+								[
+									[
+										28043,
+										28043
+									],
+									[
+										28160,
+										28160
+									],
+									[
+										110031,
+										110031
+									],
+									[
+										118414,
+										118414
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_CBD3DAFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										198069,
+										198076
+									]
+								],
+								"scope": "col_CBD3DAFF"
+							},
+							"col_CBD3DAFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_CBD3DAFF_circle.png",
+								"regions":
+								[
+									[
+										198060,
+										198060
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_CCE5FFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										109776,
+										109783
+									]
+								],
+								"scope": "col_CCE5FFFF"
+							},
+							"col_CCE5FFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_CCE5FFFF_circle.png",
+								"regions":
+								[
+									[
+										109756,
+										109756
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_CED4DAFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										32749,
+										32756
+									],
+									[
+										73381,
+										73388
+									],
+									[
+										80617,
+										80624
+									],
+									[
+										82586,
+										82593
+									]
+								],
+								"scope": "col_CED4DAFF"
+							},
+							"col_CED4DAFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_CED4DAFF_circle.png",
+								"regions":
+								[
+									[
+										32729,
+										32729
+									],
+									[
+										73361,
+										73361
+									],
+									[
+										80597,
+										80597
+									],
+									[
+										82566,
+										82566
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_D1ECF1FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										110361,
+										110368
+									]
+								],
+								"scope": "col_D1ECF1FF"
+							},
+							"col_D1ECF1FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_D1ECF1FF_circle.png",
+								"regions":
+								[
+									[
+										110341,
+										110341
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_D39E00FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										51120,
+										51127
+									],
+									[
+										51236,
+										51243
+									],
+									[
+										51613,
+										51620
+									],
+									[
+										108092,
+										108099
+									],
+									[
+										139625,
+										139632
+									]
+								],
+								"scope": "col_D39E00FF"
+							},
+							"col_D39E00FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_D39E00FF_circle.png",
+								"regions":
+								[
+									[
+										51104,
+										51104
+									],
+									[
+										51220,
+										51220
+									],
+									[
+										51593,
+										51593
+									],
+									[
+										108072,
+										108072
+									],
+									[
+										139605,
+										139605
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_D3D9DFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										53476,
+										53483
+									]
+								],
+								"scope": "col_D3D9DFFF"
+							},
+							"col_D3D9DFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_D3D9DFFF_circle.png",
+								"regions":
+								[
+									[
+										53460,
+										53460
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_D4EDDAFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										110170,
+										110177
+									]
+								],
+								"scope": "col_D4EDDAFF"
+							},
+							"col_D4EDDAFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_D4EDDAFF_circle.png",
+								"regions":
+								[
+									[
+										110150,
+										110150
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_D6D8D9FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										111127,
+										111134
+									]
+								],
+								"scope": "col_D6D8D9FF"
+							},
+							"col_D6D8D9FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_D6D8D9FF_circle.png",
+								"regions":
+								[
+									[
+										111107,
+										111107
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_D6D8DBFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										27863,
+										27870
+									],
+									[
+										109997,
+										110004
+									],
+									[
+										118269,
+										118276
+									]
+								],
+								"scope": "col_D6D8DBFF"
+							},
+							"col_D6D8DBFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_D6D8DBFF_circle.png",
+								"regions":
+								[
+									[
+										27843,
+										27843
+									],
+									[
+										109981,
+										109981
+									],
+									[
+										118249,
+										118249
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_D8D9DB7F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										53121,
+										53145
+									],
+									[
+										53668,
+										53692
+									]
+								],
+								"scope": "col_D8D9DB7F"
+							},
+							"col_D8D9DB7F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_D8D9DB7F_circle.png",
+								"regions":
+								[
+									[
+										53094,
+										53094
+									],
+									[
+										53641,
+										53641
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_DAE0E5FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										52973,
+										52980
+									],
+									[
+										53085,
+										53092
+									],
+									[
+										53451,
+										53458
+									],
+									[
+										108657,
+										108664
+									],
+									[
+										140000,
+										140007
+									]
+								],
+								"scope": "col_DAE0E5FF"
+							},
+							"col_DAE0E5FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_DAE0E5FF_circle.png",
+								"regions":
+								[
+									[
+										52957,
+										52957
+									],
+									[
+										53069,
+										53069
+									],
+									[
+										53431,
+										53431
+									],
+									[
+										108637,
+										108637
+									],
+									[
+										139980,
+										139980
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_DC35453F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										41768,
+										41791
+									],
+									[
+										42919,
+										42942
+									],
+									[
+										44059,
+										44082
+									],
+									[
+										44635,
+										44658
+									]
+								],
+								"scope": "col_DC35453F"
+							},
+							"col_DC35453F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_DC35453F_circle.png",
+								"regions":
+								[
+									[
+										41741,
+										41741
+									],
+									[
+										42892,
+										42892
+									],
+									[
+										44032,
+										44032
+									],
+									[
+										44608,
+										44608
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_DC35457F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										59479,
+										59501
+									],
+									[
+										60079,
+										60101
+									],
+									[
+										108479,
+										108501
+									]
+								],
+								"scope": "col_DC35457F"
+							},
+							"col_DC35457F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_DC35457F_circle.png",
+								"regions":
+								[
+									[
+										59452,
+										59452
+									],
+									[
+										60052,
+										60052
+									],
+									[
+										108452,
+										108452
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_DC3545E5":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										40772,
+										40794
+									]
+								],
+								"scope": "col_DC3545E5"
+							},
+							"col_DC3545E5_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_DC3545E5_circle.png",
+								"regions":
+								[
+									[
+										40752,
+										40752
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_DC3545FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										313,
+										320
+									]
+								],
+								"scope": "col_DC3545FF"
+							},
+							"col_DC3545FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_DC3545FF_circle.png",
+								"regions":
+								[
+									[
+										304,
+										304
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_DEAA0C7F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										51272,
+										51295
+									],
+									[
+										51836,
+										51859
+									]
+								],
+								"scope": "col_DEAA0C7F"
+							},
+							"col_DEAA0C7F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_DEAA0C7F_circle.png",
+								"regions":
+								[
+									[
+										51245,
+										51245
+									],
+									[
+										51809,
+										51809
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_DEE2E6FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										6971,
+										6978
+									],
+									[
+										26670,
+										26677
+									],
+									[
+										26753,
+										26760
+									],
+									[
+										26812,
+										26819
+									],
+									[
+										26913,
+										26920
+									],
+									[
+										26986,
+										26993
+									],
+									[
+										30972,
+										30979
+									],
+									[
+										84378,
+										84385
+									],
+									[
+										85188,
+										85195
+									],
+									[
+										86128,
+										86135
+									],
+									[
+										86237,
+										86244
+									],
+									[
+										87365,
+										87372
+									],
+									[
+										87641,
+										87648
+									],
+									[
+										87904,
+										87911
+									],
+									[
+										87912,
+										87919
+									],
+									[
+										104610,
+										104617
+									],
+									[
+										104743,
+										104750
+									],
+									[
+										105378,
+										105385
+									],
+									[
+										124811,
+										124818
+									],
+									[
+										125395,
+										125402
+									],
+									[
+										140363,
+										140370
+									],
+									[
+										140424,
+										140431
+									],
+									[
+										140489,
+										140496
+									],
+									[
+										140556,
+										140563
+									],
+									[
+										140619,
+										140626
+									],
+									[
+										199785,
+										199792
+									],
+									[
+										199957,
+										199964
+									],
+									[
+										200034,
+										200041
+									]
+								],
+								"scope": "col_DEE2E6FF"
+							},
+							"col_DEE2E6FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_DEE2E6FF_circle.png",
+								"regions":
+								[
+									[
+										6951,
+										6951
+									],
+									[
+										26646,
+										26646
+									],
+									[
+										26726,
+										26726
+									],
+									[
+										26788,
+										26788
+									],
+									[
+										26893,
+										26893
+									],
+									[
+										26966,
+										26966
+									],
+									[
+										30956,
+										30956
+									],
+									[
+										84358,
+										84358
+									],
+									[
+										85168,
+										85168
+									],
+									[
+										86108,
+										86108
+									],
+									[
+										86217,
+										86217
+									],
+									[
+										87338,
+										87338
+									],
+									[
+										87609,
+										87609
+									],
+									[
+										87888,
+										87888
+									],
+									[
+										104590,
+										104590
+									],
+									[
+										104727,
+										104727
+									],
+									[
+										105362,
+										105362
+									],
+									[
+										124784,
+										124784
+									],
+									[
+										125371,
+										125371
+									],
+									[
+										140343,
+										140343
+									],
+									[
+										140400,
+										140400
+									],
+									[
+										140463,
+										140463
+									],
+									[
+										140529,
+										140529
+									],
+									[
+										140594,
+										140594
+									],
+									[
+										199763,
+										199763
+									],
+									[
+										199939,
+										199939
+									],
+									[
+										200016,
+										200016
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E0A800FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										51095,
+										51102
+									],
+									[
+										51211,
+										51218
+									]
+								],
+								"scope": "col_E0A800FF"
+							},
+							"col_E0A800FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E0A800FF_circle.png",
+								"regions":
+								[
+									[
+										51075,
+										51075
+									],
+									[
+										51191,
+										51191
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E153617F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										52207,
+										52229
+									],
+									[
+										52766,
+										52788
+									]
+								],
+								"scope": "col_E153617F"
+							},
+							"col_E153617F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E153617F_circle.png",
+								"regions":
+								[
+									[
+										52180,
+										52180
+									],
+									[
+										52739,
+										52739
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E2E3E5FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										109972,
+										109979
+									]
+								],
+								"scope": "col_E2E3E5FF"
+							},
+							"col_E2E3E5FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E2E3E5FF_circle.png",
+								"regions":
+								[
+									[
+										109952,
+										109952
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E2E6EAFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										52948,
+										52955
+									],
+									[
+										53060,
+										53067
+									]
+								],
+								"scope": "col_E2E6EAFF"
+							},
+							"col_E2E6EAFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E2E6EAFF_circle.png",
+								"regions":
+								[
+									[
+										52928,
+										52928
+									],
+									[
+										53040,
+										53040
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E4606DFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										43834,
+										43841
+									],
+									[
+										43863,
+										43870
+									]
+								],
+								"scope": "col_E4606DFF"
+							},
+							"col_E4606DFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E4606DFF_circle.png",
+								"regions":
+								[
+									[
+										43818,
+										43818
+									],
+									[
+										43843,
+										43843
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E83E8CFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										295,
+										302
+									]
+								],
+								"scope": "col_E83E8CFF"
+							},
+							"col_E83E8CFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E83E8CFF_circle.png",
+								"regions":
+								[
+									[
+										285,
+										285
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_E9ECEFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										30947,
+										30954
+									],
+									[
+										33731,
+										33738
+									],
+									[
+										66475,
+										66482
+									],
+									[
+										73352,
+										73359
+									],
+									[
+										76710,
+										76717
+									],
+									[
+										81138,
+										81145
+									],
+									[
+										82127,
+										82134
+									],
+									[
+										82882,
+										82889
+									],
+									[
+										87625,
+										87632
+									],
+									[
+										87633,
+										87640
+									],
+									[
+										103770,
+										103777
+									],
+									[
+										104718,
+										104725
+									],
+									[
+										109142,
+										109149
+									],
+									[
+										111665,
+										111672
+									],
+									[
+										113280,
+										113287
+									]
+								],
+								"scope": "col_E9ECEFFF"
+							},
+							"col_E9ECEFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_E9ECEFFF_circle.png",
+								"regions":
+								[
+									[
+										30927,
+										30927
+									],
+									[
+										33711,
+										33711
+									],
+									[
+										66451,
+										66451
+									],
+									[
+										73332,
+										73332
+									],
+									[
+										76690,
+										76690
+									],
+									[
+										81118,
+										81118
+									],
+									[
+										82107,
+										82107
+									],
+									[
+										82862,
+										82862
+									],
+									[
+										87609,
+										87609
+									],
+									[
+										103750,
+										103750
+									],
+									[
+										104698,
+										104698
+									],
+									[
+										109122,
+										109122
+									],
+									[
+										111645,
+										111645
+									],
+									[
+										113260,
+										113260
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_EBEBEBFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										132638,
+										132645
+									]
+								],
+								"scope": "col_EBEBEBFF"
+							},
+							"col_EBEBEBFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_EBEBEBFF_circle.png",
+								"regions":
+								[
+									[
+										132611,
+										132611
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_ECECF6FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										29981,
+										29988
+									],
+									[
+										30090,
+										30097
+									],
+									[
+										111015,
+										111022
+									],
+									[
+										120289,
+										120296
+									]
+								],
+								"scope": "col_ECECF6FF"
+							},
+							"col_ECECF6FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_ECECF6FF_circle.png",
+								"regions":
+								[
+									[
+										29961,
+										29961
+									],
+									[
+										30070,
+										30070
+									],
+									[
+										110995,
+										110995
+									],
+									[
+										120269,
+										120269
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_ED969EFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										29538,
+										29545
+									]
+								],
+								"scope": "col_ED969EFF"
+							},
+							"col_ED969EFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_ED969EFF_circle.png",
+								"regions":
+								[
+									[
+										29522,
+										29522
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_F1B0B7FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										29605,
+										29612
+									],
+									[
+										29716,
+										29723
+									],
+									[
+										110826,
+										110833
+									],
+									[
+										119921,
+										119928
+									]
+								],
+								"scope": "col_F1B0B7FF"
+							},
+							"col_F1B0B7FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_F1B0B7FF_circle.png",
+								"regions":
+								[
+									[
+										29585,
+										29585
+									],
+									[
+										29696,
+										29696
+									],
+									[
+										110806,
+										110806
+									],
+									[
+										119901,
+										119901
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_F5C6CBFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										29420,
+										29427
+									],
+									[
+										110775,
+										110782
+									],
+									[
+										119762,
+										119769
+									]
+								],
+								"scope": "col_F5C6CBFF"
+							},
+							"col_F5C6CBFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_F5C6CBFF_circle.png",
+								"regions":
+								[
+									[
+										29400,
+										29400
+									],
+									[
+										110759,
+										110759
+									],
+									[
+										119742,
+										119742
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_F7F7F7FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										131868,
+										131875
+									],
+									[
+										132602,
+										132609
+									]
+								],
+								"scope": "col_F7F7F7FF"
+							},
+							"col_F7F7F7FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_F7F7F7FF_circle.png",
+								"regions":
+								[
+									[
+										131841,
+										131841
+									],
+									[
+										132582,
+										132582
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_F8D7DAFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										110750,
+										110757
+									]
+								],
+								"scope": "col_F8D7DAFF"
+							},
+							"col_F8D7DAFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_F8D7DAFF_circle.png",
+								"regions":
+								[
+									[
+										110730,
+										110730
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_F8F9FA7F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										60375,
+										60399
+									],
+									[
+										60970,
+										60994
+									],
+									[
+										108753,
+										108777
+									]
+								],
+								"scope": "col_F8F9FA7F"
+							},
+							"col_F8F9FA7F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_F8F9FA7F_circle.png",
+								"regions":
+								[
+									[
+										60348,
+										60348
+									],
+									[
+										60943,
+										60943
+									],
+									[
+										108726,
+										108726
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FBFCFCFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										29915,
+										29922
+									]
+								],
+								"scope": "col_FBFCFCFF"
+							},
+							"col_FBFCFCFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FBFCFCFF_circle.png",
+								"regions":
+								[
+									[
+										29899,
+										29899
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FCF8E3FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										6324,
+										6331
+									]
+								],
+								"scope": "col_FCF8E3FF"
+							},
+							"col_FCF8E3FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FCF8E3FF_circle.png",
+								"regions":
+								[
+									[
+										6304,
+										6304
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FD7E14FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										334,
+										341
+									]
+								],
+								"scope": "col_FD7E14FF"
+							},
+							"col_FD7E14FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FD7E14FF_circle.png",
+								"regions":
+								[
+									[
+										322,
+										322
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FDFDFEFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										29801,
+										29808
+									],
+									[
+										110965,
+										110972
+									],
+									[
+										120132,
+										120139
+									]
+								],
+								"scope": "col_FDFDFEFF"
+							},
+							"col_FDFDFEFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FDFDFEFF_circle.png",
+								"regions":
+								[
+									[
+										29781,
+										29781
+									],
+									[
+										110949,
+										110949
+									],
+									[
+										120112,
+										120112
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FEFEFEFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										110940,
+										110947
+									]
+								],
+								"scope": "col_FEFEFEFF"
+							},
+							"col_FEFEFEFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FEFEFEFF_circle.png",
+								"regions":
+								[
+									[
+										110920,
+										110920
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFC1077F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										58570,
+										58592
+									],
+									[
+										59182,
+										59204
+									],
+									[
+										108192,
+										108214
+									]
+								],
+								"scope": "col_FFC1077F"
+							},
+							"col_FFC1077F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFC1077F_circle.png",
+								"regions":
+								[
+									[
+										58543,
+										58543
+									],
+									[
+										59155,
+										59155
+									],
+									[
+										108165,
+										108165
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFC107FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										355,
+										362
+									]
+								],
+								"scope": "col_FFC107FF"
+							},
+							"col_FFC107FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFC107FF_circle.png",
+								"regions":
+								[
+									[
+										343,
+										343
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFDF7EFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										29151,
+										29158
+									]
+								],
+								"scope": "col_FFDF7EFF"
+							},
+							"col_FFDF7EFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFDF7EFF_circle.png",
+								"regions":
+								[
+									[
+										29135,
+										29135
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFE8A1FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										29219,
+										29226
+									],
+									[
+										29332,
+										29339
+									],
+									[
+										110634,
+										110641
+									],
+									[
+										119549,
+										119556
+									]
+								],
+								"scope": "col_FFE8A1FF"
+							},
+							"col_FFE8A1FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFE8A1FF_circle.png",
+								"regions":
+								[
+									[
+										29199,
+										29199
+									],
+									[
+										29312,
+										29312
+									],
+									[
+										110614,
+										110614
+									],
+									[
+										119529,
+										119529
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFEEBAFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										29029,
+										29036
+									],
+									[
+										110582,
+										110589
+									],
+									[
+										119388,
+										119395
+									]
+								],
+								"scope": "col_FFEEBAFF"
+							},
+							"col_FFEEBAFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFEEBAFF_circle.png",
+								"regions":
+								[
+									[
+										29009,
+										29009
+									],
+									[
+										110566,
+										110566
+									],
+									[
+										119368,
+										119368
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFF0C":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										31264,
+										31289
+									]
+								],
+								"scope": "col_FFFFFF0C"
+							},
+							"col_FFFFFF0C_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFF0C_circle.png",
+								"regions":
+								[
+									[
+										31244,
+										31244
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFF13":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										31378,
+										31404
+									]
+								],
+								"scope": "col_FFFFFF13"
+							},
+							"col_FFFFFF13_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFF13_circle.png",
+								"regions":
+								[
+									[
+										31358,
+										31358
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFF19":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										98407,
+										98431
+									]
+								],
+								"scope": "col_FFFFFF19"
+							},
+							"col_FFFFFF19_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFF19_circle.png",
+								"regions":
+								[
+									[
+										98391,
+										98391
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFF26":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										112179,
+										112204
+									],
+									[
+										112244,
+										112269
+									],
+									[
+										112275,
+										112300
+									]
+								],
+								"scope": "col_FFFFFF26"
+							},
+							"col_FFFFFF26_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFF26_circle.png",
+								"regions":
+								[
+									[
+										112136,
+										112136
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFF3F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										98094,
+										98119
+									]
+								],
+								"scope": "col_FFFFFF3F"
+							},
+							"col_FFFFFF3F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFF3F_circle.png",
+								"regions":
+								[
+									[
+										98085,
+										98085
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFF7F":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										97886,
+										97910
+									],
+									[
+										98365,
+										98389
+									],
+									[
+										98797,
+										98821
+									],
+									[
+										198398,
+										198422
+									]
+								],
+								"scope": "col_FFFFFF7F"
+							},
+							"col_FFFFFF7F_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFF7F_circle.png",
+								"regions":
+								[
+									[
+										97877,
+										97877
+									],
+									[
+										98356,
+										98356
+									],
+									[
+										98788,
+										98788
+									],
+									[
+										198389,
+										198389
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFFBF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										98009,
+										98034
+									]
+								],
+								"scope": "col_FFFFFFBF"
+							},
+							"col_FFFFFFBF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFBF_circle.png",
+								"regions":
+								[
+									[
+										98000,
+										98000
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFFD8":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										121335,
+										121360
+									],
+									[
+										121947,
+										121972
+									]
+								],
+								"scope": "col_FFFFFFD8"
+							},
+							"col_FFFFFFD8_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFD8_circle.png",
+								"regions":
+								[
+									[
+										121315,
+										121315
+									],
+									[
+										121927,
+										121927
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_FFFFFFFF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										433,
+										440
+									]
+								],
+								"scope": "col_FFFFFFFF"
+							},
+							"col_FFFFFFFF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_circle.png",
+								"regions":
+								[
+									[
+										422,
+										422
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								3350,
+								3350
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3351,
+										3352
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										3329,
+										3330
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3745.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "js/indexjson.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 759,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								759,
+								759
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -1157,19 +7587,176 @@
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
-								"bh_regex_content"
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
 							],
 							"git_gutter_is_enabled": true,
-							"spell_check": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "json/search.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 55,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										51,
+										52
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										4,
+										5
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -1203,7 +7790,7 @@
 		"cols":
 		[
 			0.0,
-			0.5,
+			0.514119091467,
 			1.0
 		],
 		"rows":
@@ -1224,6 +7811,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 150.0
 	},
 	"output.mdpopups":
 	{
