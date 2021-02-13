@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cl0pinette.github.io
+Token: 2b0b9e1331903d88b3a20cf12d3ecee96d1cd3c495b252f2be6793ccb4e2f91a
